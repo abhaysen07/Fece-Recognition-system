@@ -1,4 +1,4 @@
-# Fece-Recognition-system
+# Face-Recognition-system
 Facial recognition is the process of identifying or verifying the identity of a person using their face.
 It captures, analyses and compares histogram patterns based on the person's facial features.
 1. The face detection process is an essential step as it detects and locates human faces in images and videos.
